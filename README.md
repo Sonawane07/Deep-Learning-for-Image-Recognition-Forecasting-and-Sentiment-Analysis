@@ -102,9 +102,16 @@ jupyter notebook
 * Visualize model performance using confusion matrices, precision-recall-F1, and learning curves.
 
 ---
+
+## Collaborators
+
+- Sruthisri Venkateswaran
+- Darshan Sonawane
+
+---
 ## License
 
-© 2025 Sruthisri Venkateswaran. All rights reserved.
+© 2025 Sruthisri Venkateswaran and Darshan Sonawane. All rights reserved.
 Educational use only.
 
 ---
