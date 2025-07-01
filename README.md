@@ -1,4 +1,4 @@
-# Deep Learning Architectures: CNNs, RNNs, and LSTMs
+# Deep Learning for Image Recognition, Forecasting, and Sentiment Analysis
 
 ## Overview
 This project presents a full-scale exploration of modern deep learning architectures including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM), and advanced variants like ResNet and ResNeXt. It tackles a variety of tasks from image classification and vanishing gradient analysis to time-series forecasting and sentiment analysis, all implemented from scratch using PyTorch.
@@ -52,7 +52,7 @@ This project presents a full-scale exploration of modern deep learning architect
 
 ## 📁 Repository Structure
 ```bash
-deep-learning-architectures-cnn-rnn-lstm/
+Deep-Learning-for-Image-Recognition-Forecasting-and-Sentiment-Analysis/
 ├── notebooks/
 │ ├── 01_cnn_vgg_resnet.ipynb
 │ ├── 02_vanishing_gradients.ipynb
@@ -72,8 +72,8 @@ deep-learning-architectures-cnn-rnn-lstm/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sruthi7sri/deep-learning-architectures-pytorch.git
-cd deep-learning-architectures-pytorch
+git clone https://github.com/sruthi7sri/Deep-Learning-for-Image-Recognition-Forecasting-and-Sentiment-Analysis.git
+cd Deep-Learning-for-Image-Recognition-Forecasting-and-Sentiment-Analysis
 ```
 
 2. Create and activate a virtual environment:
@@ -118,6 +118,6 @@ Educational use only.
 
 ## 📩 Contact
 
-If you'd like to collaborate, ask questions, or share feedback, feel free to reach out via [GitHub Issues](https://github.com/sruthi7sri/deep-learning-architectures-pytorch/issues).
+If you'd like to collaborate, ask questions, or share feedback, feel free to reach out via [GitHub Issues](https://github.com/sruthi7sri/Deep-Learning-for-Image-Recognition-Forecasting-and-Sentiment-Analysis/issues).
 
 ---
